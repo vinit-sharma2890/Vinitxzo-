@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<img src="https://mimo.app/i/emmy.png" width="150">
+<img src="" width="150">
  <h1>VINIT SHARMA</h1>
 <h2>SOFTWARE ENGINEER</h2>
 <p>MSC CS STUDENTS</p>
